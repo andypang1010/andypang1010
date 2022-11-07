@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andypang1010
 - 👀 I’m interested in Software Development and Web Development.
-- 🌱 I’m currently majoring in Computer Science at Cornell University.
+- 🌱 I’m currently majoring in Computer Science and Physics at Cornell University.
 - 📫 How to reach me: andypang1010@gmail.com or cp487@cornell.edu
 
 <!---

@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @andypang1010
-- 👀 I’m interested in Mobile, Web, and Game Development.
-- 🌱 I’m currently majoring in Computer Science at Cornell University.
-- 📫 How to reach me: andypang1010@gmail.com or cp487@cornell.edu
+- 👀 I’m interested in Video Game Design and Development.
+- 🌱 I’m currently pursuing Master of Entertainment Technology at Carnegie Mellon University.
+- 📫 How to reach me: andypang1010@gmail.com or apang@andrew.cmu.edu
 
 <!---
 andypang1010/andypang1010 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
